@@ -4,9 +4,9 @@ about: Track the tasks for taking a library to GA
 
 ---
 
-Package name: **com.google.cloud.dialogflow**
-Current release: **beta**
-Proposed release: **GA**
+Package name: **FILL THIS IN**  
+Current release: **beta**  
+Proposed release: **GA**  
 
 ## Instructions
 
