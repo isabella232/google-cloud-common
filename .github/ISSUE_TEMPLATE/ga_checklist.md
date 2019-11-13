@@ -27,4 +27,4 @@ Check the lists below, adding tests / documentation as required. Once all the "r
 - [ ] Per-API README contains at least one “getting started” sample using the most common API scenario
 - [ ] Manual code has been reviewed by API producer
 - [ ] Manual code has been reviewed by a DPE responsible for samples
-- [ ] 'Client LIbraries' page is added to the product documentation in 'APIs & Reference' section of the product's documentation on Cloud Site
+- [ ] 'Client Libraries' page is added to the product documentation in 'APIs & Reference' section of the product's documentation on Cloud Site
