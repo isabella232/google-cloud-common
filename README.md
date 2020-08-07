@@ -2,14 +2,14 @@
 
 Get up and running with your Google Cloud Platform client library.
 
-  - C++ - [google-cloud-cpp](https://github.com/googlecloudplatform/google-cloud-cpp)
-  - C# - [google-cloud-dotnet](https://github.com/googlecloudplatform/google-cloud-dotnet)
-  - Go - [google-cloud-go](https://github.com/googlecloudplatform/google-cloud-go)
-  - Java - [google-cloud-java](https://github.com/googlecloudplatform/google-cloud-java)
-  - Node.js - [google-cloud-node](https://github.com/googlecloudplatform/google-cloud-node)
-  - PHP - [google-cloud-php](https://github.com/googlecloudplatform/google-cloud-php)
-  - Python - [google-cloud-python](https://github.com/googlecloudplatform/google-cloud-python)
-  - Ruby - [google-cloud-ruby](https://github.com/googlecloudplatform/google-cloud-ruby)
+  - C++ - [google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp)
+  - C# - [google-cloud-dotnet](https://github.com/googleapis/google-cloud-dotnet)
+  - Go - [google-cloud-go](https://github.com/googleapis/google-cloud-go)
+  - Java - [google-cloud-java](https://github.com/googleapis/google-cloud-java)
+  - Node.js - [google-cloud-node](https://github.com/googleapis/google-cloud-node)
+  - PHP - [google-cloud-php](https://github.com/googleapis/google-cloud-php)
+  - Python - [google-cloud-python](https://github.com/googleapis/google-cloud-python)
+  - Ruby - [google-cloud-ruby](https://github.com/googleapis/google-cloud-ruby)
 
 #### [Authentication Guide](authentication/readme.md)
 
